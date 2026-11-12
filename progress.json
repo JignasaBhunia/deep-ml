@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:55:58.616Z",
+  "generated_at": "2026-11-12T20:57:29.663Z",
   "items": {
     "math:6": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-29T17:55:53.626Z",
       "last_pushed_at": "2026-10-29T17:55:53.626Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-11-12T20:57:28.585Z",
+      "last_pushed_at": "2026-11-12T20:57:28.585Z"
     }
   }
 }
